@@ -1,10 +1,10 @@
 # calculator
+Use media queries to create a responsive layout that works on various screen sizes. 
+Create reusable widgets for different parts of the calculator, like display screen, number buttons, operator buttons, and action buttons.
+Create a class Calculator in a separate file (e.g., calculator.dart).
 
-A new Flutter project.
+![WhatsApp Image 2024-06-17 at 1 18 25 PM](https://github.com/Vineet1924/calculator/assets/118120039/d6fdfd83-3ec5-43f3-a629-9bf4b9bba047)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
